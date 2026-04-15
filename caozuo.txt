@@ -3,4 +3,13 @@ git status
 git add .txt
 git commit -m "fir/sec/..."
 git reflog .txt
+cat .txt
+git branch -v
+git checkout ...
+git merge ...
+====conflict===
+vim .txt
+i
+delect
+===============
 
