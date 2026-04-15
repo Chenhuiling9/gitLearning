@@ -1,0 +1,6 @@
+vim .txt
+git status
+git add .txt
+git commit -m "fir/sec/..."
+git reflog .txt
+
