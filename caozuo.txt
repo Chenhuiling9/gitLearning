@@ -17,3 +17,5 @@ git remote -v
 git remote add 别名 链接 
 设置远程库连接别名
 git push 别名/链接 分支名
+git pull 别名/链接 分支名
+git clone 链接 //做了三件事：克隆代码、初始化本地库、设置链接别名
