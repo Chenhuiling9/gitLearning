@@ -12,4 +12,8 @@ vim .txt
 i
 delect
 ===============
-
+git remote -v
+查看远程库别名
+git remote add 别名 链接 
+设置远程库连接别名
+git push 别名/链接 分支名
